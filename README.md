@@ -19,7 +19,7 @@
 <span id="Fundamentals"> </span>
 # Learn Programing Fundamentals ,HTMl and CSS
 
-![100%](https://progress-bar.dev/0/?title=Done)
+![100%](https://progress-bar.dev/100/?title=Done)
 <br />
 - ## Programming Foundations series and HTML and CSS from Linkdin Learning
 
@@ -34,7 +34,7 @@
     - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 53m 51s` - 09 - [Programming Foundations: Software Testing/QA](Linkedin-Learning/Programming-Foundations-Software-TestingQA/)
     - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 2h 55m 49s` - 10 - [Git Essential Training: The Basics](Linkedin-Learning/Git-Essential-Training-The-Basics/)
     - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 2h 45m 37s` - 11 -[HTML Essential Training](Linkedin-Learning/Html-Essential-Training/)
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 4h 29m 7s` - 12- [CSS Essential Training](Linkedin-Learning/CSS-Essential-Training/)
+    - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 4h 29m 7s` - 12- [CSS Essential Training](Linkedin-Learning/CSS-Essential-Training/)
     <br />
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-24h27m-blue">
